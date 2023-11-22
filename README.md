@@ -1,2 +1,2 @@
-# nrf9160_FTP_Firmware-for-OTA
-Repo for compiled code used in the OTA process for the nrf9160
+# nrf9160_OTA_Server
+Repo for OTA Binary, used in the OTA process for the nrf9160 and catM1
