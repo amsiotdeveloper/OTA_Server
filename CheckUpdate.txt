@@ -1,1 +1,1 @@
-app_update: 0.0.4, APP_FW_UPDATE/appfw_nrf9160_0.0.4.bin|
+app_update: 00.00.19, APP_FW_UPDATE/appfw_nrf9160_00.00.19.bin|
