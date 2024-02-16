@@ -1,1 +1,1 @@
-SMART_OTA :  https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/appfw_nrf9160_00.00.19.bin|~
+SMART_OTA : https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/appfw_nrf9160_00.00.19.bin|~
