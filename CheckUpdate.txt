@@ -1,1 +1,1 @@
-SMART_OTA : 1,https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/OTAFile_00.00.20.23.bin|~
+SMART_OTA : 1,https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/OTAFile_00.00.21.23.bin|~
