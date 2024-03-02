@@ -1,1 +1,0 @@
-PATH : https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/OTA_00.00.19_004.bin
