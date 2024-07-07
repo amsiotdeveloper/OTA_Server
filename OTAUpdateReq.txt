@@ -1,1 +1,1 @@
-SMART_OTA : 1,A,APP_FPATH : https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/OTAFile_HS.00.00.02t003.bin|~
+SMART_OTA : 1,ALL,APP_FPATH : https://raw.githubusercontent.com/amsiotdeveloper/OTA_Server/main/APP_FW_UPDATE/OTAFile_HS.00.00.02t003.bin|~
